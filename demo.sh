@@ -1,1 +1,1 @@
-echo "Jenkins Gitlab Integration"
+echo "Jenkins-Gitlab-Integration"
